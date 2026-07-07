@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf7f0"/>
+      <stop offset="0.6" stop-color="#f2ecdf"/>
+      <stop offset="1" stop-color="#ece3d0"/>
+    </linearGradient>
+    <linearGradient id="woodbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8a6844"/>
+      <stop offset="1" stop-color="#6d4f31"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity="0.35">
+    <path d="M0 40 h1200 M0 80 h1200 M0 120 h1200 M0 160 h1200 M0 200 h1200 M0 240 h1200 M0 280 h1200 M0 320 h1200 M0 360 h1200 M0 400 h1200 M0 440 h1200 M0 480 h1200 M0 520 h1200 M0 560 h1200 M0 600 h1200" stroke="#8a6844" stroke-opacity="0.08" stroke-width="10"/>
+  </g>
+  <rect x="0" y="600" width="1200" height="30" fill="url(#woodbar)"/>
+  <text x="100" y="150" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="24" letter-spacing="8" fill="#a8663c">SHIJIMIWORKS WOODCRAFT</text>
+  <text x="96" y="300" font-family="Georgia, serif" font-size="92" fill="#2e2b26">暮らしのそばに、</text>
+  <text x="96" y="415" font-family="Georgia, serif" font-size="92" fill="#2e2b26">木の<tspan fill="#8a6844">温度</tspan>を。</text>
+  <text x="100" y="500" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="28" fill="#57524a">木の器 ・ 家具 ・ 生活道具 ｜ 田舎の小さな木工工房</text>
+  <text x="100" y="552" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="20" letter-spacing="2" fill="#8d867a">Handmade &#183; Order Made &#183; Gift Wrapping &#183; Nationwide Shipping</text>
+</svg>
